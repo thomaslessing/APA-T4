@@ -165,9 +165,8 @@ Inserte a continuación una captura de pantalla que muestre el resultado de ejec
 fichero `aleatorios.py` con la opción *verbosa*, de manera que se muestre el
 resultado de la ejecución de los tests unitarios.
 
-git add Captura de pantalla (176).png README.md
-git commit -m "Añadir captura de pantalla de tests"
-git push
+
+![Resultado de los tests](Capturadepantalla(176).png)
 
 #### Código desarrollado
 

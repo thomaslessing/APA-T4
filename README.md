@@ -166,7 +166,7 @@ fichero `aleatorios.py` con la opción *verbosa*, de manera que se muestre el
 resultado de la ejecución de los tests unitarios.
 
 
-![Resultado de los tests](Capturadepantalla(176).png)
+![Resultado de los tests](APA-T4/Capturadepantalla(176).png)
 
 #### Código desarrollado
 
